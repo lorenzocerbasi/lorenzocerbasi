@@ -1,7 +1,7 @@
 ## Olá, eu sou Lorenzo Cerbasi
 
-- 🔭 Atualmente estou desempregado
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Atualmente sou Desenvolvedor Web na Wol Marketing!
+- 🌱 Estudando HTML, CSS e JavaScript e React!
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 
  <div>
