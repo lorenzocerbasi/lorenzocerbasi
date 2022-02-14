@@ -1,7 +1,7 @@
 ## Olá, eu sou Lorenzo Cerbasi
 
-- 🔭 Atualmente sou Desenvolvedor Web na Wol Marketing!
-- 🌱 Estudando HTML, CSS e JavaScript e React!
+- 🔭 Atualmente sou Desenvolvedor Front End.
+- 🌱 Tenho conhecimento em HTML/PHP/CSS/SASS/JS/jQuery/ReactJS/Next.js!
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 
  <div>
