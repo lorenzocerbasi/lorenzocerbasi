@@ -1,7 +1,7 @@
 ## Olá, eu sou Lorenzo Cerbasi
 
 - 🔭 Desenvolvedor Front End.
-- 🌱 Tenho conhecimento em HTML/PHP/CSS/SASS/JS/jQuery/ReactJS/Next.js/Flutter/MySQL!
+- 🌱 Tenho conhecimento em HTML/PHP/CSS/SASS/JavaScript/TypeScript/jQuery/ReactJS/Next.js/Flutter/MySQL!
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 
  <div>
