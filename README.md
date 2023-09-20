@@ -17,10 +17,12 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
   <img align="center" alt="Lorenzo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lorenzo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Lorenzo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lorenzo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Lorenzo-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"">
   <img align="center" alt="Lorenzo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Lorenzo-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- 
+  <img align="center" height="30" width="40" alt="Lorenzo-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="36" width="40" alt="Lorenzo-Xcode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
+  <img align="center" height="75" width="70" alt="Lorenzo-Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">          
 <div> <br>
   <a href="https://www.linkedin.com/in/lorenzo-cerbasi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
