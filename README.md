@@ -1,7 +1,7 @@
-## Olá, eu sou Lorenzo Cerbasi
+## Olá, eu sou Lorenzo Cerbasi.
+Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos web, com foco na experiência do usuário e também na responsividade de meus projetos, sou acostumado a trabalhar com prazos curto.
 
-- 🔭 Desenvolvedor Front End.
-- 🌱 Tenho conhecimento em HTML/PHP/CSS/SASS/JavaScript/TypeScript/jQuery/ReactJS/Next.js/Flutter/MySQL!
+- 🌱 Tenho conhecimento e experiência em React, Next, ReactNative, Javascript, Typescript, Redux, TailwindCSS, ChakraUI, MaterialUI.
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 
  <div>
