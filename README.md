@@ -23,6 +23,3 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
   <img align="center" height="30" width="40" alt="Lorenzo-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="36" width="40" alt="Lorenzo-Xcode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
   <img align="center" height="75" width="70" alt="Lorenzo-Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">          
-<div> <br>
-  <a href="https://www.linkedin.com/in/lorenzo-cerbasi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
