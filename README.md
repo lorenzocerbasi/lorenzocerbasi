@@ -4,10 +4,17 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
 - 🌱 Tenho conhecimento e experiência em React, Next, ReactNative, Javascript, Typescript, Redux, TailwindCSS, ChakraUI, MaterialUI.
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 
- <div>
+<div>
   <a href="https://github.com/lorenzocerbasi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzocerbasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocerbasi&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzocerbasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocerbasi&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/lorenzocerbasi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzocerbasi&repo=YOUR_REPOSITORY_NAME&theme=dracula"/>
+  </a>
 </div>
   
  <div style="display: inline_block"><br>
