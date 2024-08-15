@@ -10,12 +10,6 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocerbasi&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-<div>
-  <a href="https://github.com/lorenzocerbasi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzocerbasi&repo=YOUR_REPOSITORY_NAME&theme=dracula"/>
-  </a>
-</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Lorenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
