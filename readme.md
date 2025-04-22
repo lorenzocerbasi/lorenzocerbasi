@@ -7,16 +7,14 @@ Um profissional habilidoso em desenvolvimento de sites, aplicativos web e aplica
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 - 🌱 Programação não é apenas sobre escrever código; é sobre resolver problemas, transformar pensamentos em soluções e, acima de tudo, criar valor.
 
-<br />
-
 ---
 
 ### 📊 Estatísticas
 
 <div>
   <a href="https://github.com/lorenzocerbasi">
-  <img height="200em" src="https://github-readme-stats-two-woad-85.vercel.app/api?username=lorenzocerbasi&theme=algolia&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&locale=pt-br"></img>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocerbasi&layout=compact&langs_count=7&theme=algolia&hide_border=true&custom_title=Tecnologias mais usadas"/></img>
+  <img height="180em" src="https://github-readme-stats-two-woad-85.vercel.app/api?username=lorenzocerbasi&theme=algolia&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&locale=pt-br"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocerbasi&layout=compact&langs_count=7&theme=algolia&hide_border=true&custom_title=Tecnologias mais usadas"/></img>
   </a>
 </div>
 
