@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou um profissional extremamente habilidoso no desenvolvimento de sites, aplicações web, APIs e aplicativos mobile, atuando em todo o ciclo do projeto, do front-end ao back-end. Trabalho sempre com foco na experiência do usuário, performance e responsividade. Sou acostumado a lidar com prazos curtos e entregar resultados de alta qualidade.
+Sou um profissional extremamente habilidoso no desenvolvimento de sites, aplicações web, APIs e aplicativos mobile, atuando em todo o ciclo do projeto, do front-end ao back-end. Trabalho sempre com foco na experiência do usuário, performance e responsividade.
 
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 - 🌱 Programação não é apenas sobre escrever código; é sobre resolver problemas, transformar pensamentos em soluções e, acima de tudo, criar valor.
