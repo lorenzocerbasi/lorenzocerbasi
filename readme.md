@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Lorenzo Cerbasi
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 
-Um profissional habilidoso em desenvolvimento de sites, aplicativos web e aplicativos mobile, com foco na experiência do usuário e também na responsividade de meus projetos, sou acostumado a trabalhar com prazos curto.
+Sou um profissional extremamente habilidoso no desenvolvimento de sites, aplicações web, APIs e aplicativos mobile, atuando em todo o ciclo do projeto, do front-end ao back-end. Trabalho sempre com foco na experiência do usuário, performance e responsividade. Sou acostumado a lidar com prazos curtos e entregar resultados de alta qualidade.
 
 - 💬 Contate-me no email: lorenzocerbasi1@hotmail.com
 - 🌱 Programação não é apenas sobre escrever código; é sobre resolver problemas, transformar pensamentos em soluções e, acima de tudo, criar valor.
